@@ -81,3 +81,13 @@
    81  git remote set-url origin  https://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@github.com/AndrewBondarev/test.git
    82  histoty > command_list.csv
    83  history > command_list.csv
+   84  git add .
+   85  git commit -m "final"
+   86  git push
+   87  git push
+   88  touch file.txt
+   89  git add .
+   90  git commit -m "1234"
+   91  git remote set-url origin https://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@github.com/AndrewBondarev/test.git
+   92  history > command_list.csv
+   93  history > command_list.csv
